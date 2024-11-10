@@ -1,0 +1,1 @@
+thid document is added due to practiece the pull and fetch, after that how to add a file and merge with the local excistig files.
